@@ -1,21 +1,22 @@
-# This is a large heading
-## This is a smaller heading
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poetâ€TMs pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-- This is
-- an unordered
-- list
-1. This is
-2. an ordered
-3. list
-Here is `some code` in the middle of a sentence.
-```
-This is
-a block
-Git and GitHub 
-of code
-```
-Here is how you make [a link](https://www.wikiped\ ia.org/).
-![This is an image.](https://github.com/yihui/xar\ ingan/releases/download/v0.0.2/karl-moustache.jpg\ )
+# Awnind
+### Geography
+
+I live in the city of Noida, in the state of Uttar Pradesh, in the India
+
+### Reading
+Three of my favourite books are:
+- *Feymen Lectures on Physics* by Richard Feymen
+- *Principles of Quantum Mechanices* by P.A.M Dirac
+- *Logic Design Fundamentals* by Charles Roth jr.
+
+### Food 
+
+Last night I dreamt about eating in these places
+
+1. KFC
+2. McDonals
+3. Karim's
+
+### Contact
+
+The best way to get in touch with me is [on Linkedin](https://www.linkedin.com/in/awnind-abhay-shrivastava-110a46113/) 
